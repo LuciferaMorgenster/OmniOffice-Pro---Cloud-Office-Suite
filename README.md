@@ -8,14 +8,30 @@
 </p>
 
 <p align="center">
+  <a href="https://omnioffice-pro.lucifera.eu" target="_blank">
+    <img src="https://img.shields.io/badge/Live_App-omnioffice--pro.lucifera.eu-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Web App" />
+  </a>
   <a href="https://www.paypal.com/paypalme/luciferamorgenster" target="_blank">
-    <img src="https://img.shields.io/badge/Sponsor-PayPal-blue.svg?style=for-the-badge&logo=paypal" alt="Sponsor via PayPal" />
+    <img src="https://img.shields.io/badge/Sponsor-PayPal-00457C.svg?style=for-the-badge&logo=paypal" alt="Sponsor via PayPal" />
   </a>
   <img src="https://img.shields.io/badge/PWA-Installable-emerald.svg?style=for-the-badge&logo=pwa" alt="PWA Installable" />
   <img src="https://img.shields.io/badge/Security-256--bit_AES--GCM-purple.svg?style=for-the-badge" alt="E2EE Security" />
   <img src="https://img.shields.io/badge/AI-Gemini_3.8_Flash-orange.svg?style=for-the-badge" alt="Gemini 3.8 AI" />
   <img src="https://img.shields.io/badge/Languages-EN%20%7C%20NL%20%7C%20DE%20%7C%20FR-blueviolet.svg?style=for-the-badge" alt="Multilingual" />
 </p>
+
+<p align="center">
+  🚀 <strong>Live Online Versie / Live Web Application:</strong><br>
+  👉 <a href="https://omnioffice-pro.lucifera.eu"><strong>https://omnioffice-pro.lucifera.eu</strong></a>
+</p>
+
+---
+
+## 🚀 Live Online App / Direct Online Gebruiken
+
+Geen installatie nodig! Gebruik OmniOffice Pro direct in elke browser of installeer als native PWA:
+
+👉 **Online Web App:** [https://omnioffice-pro.lucifera.eu](https://omnioffice-pro.lucifera.eu)
 
 ---
 
@@ -154,11 +170,19 @@ Your support helps maintain open-source innovation, high-availability cloud sync
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### 🌐 Instant Cloud Access (No Setup Required)
+You can immediately use the hosted production version:
+👉 **[https://omnioffice-pro.lucifera.eu](https://omnioffice-pro.lucifera.eu)**
+
+---
+
+### 💻 Local Development Setup
+
+#### Prerequisites
 - Node.js `>= 18.0.0`
 - npm or pnpm
 
-### Installation
+#### Installation
 
 ```bash
 # Clone the repository
