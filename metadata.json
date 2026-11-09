@@ -1,0 +1,6 @@
+{
+  "name": "OmniOffice Pro - Cloud Office Suite",
+  "description": "Volledig cloud office pakket voor documenten, spreadsheets, presentaties en notities met realtime samenwerking, AI-assistentie, offline modus en end-to-end encryptie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
